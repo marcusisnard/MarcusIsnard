@@ -1,9 +1,9 @@
 # Hello 👋
-I'm Marcus - a software engineer passionate about building systems to tackle physical engineering challenges. Previously, I wrote software for aircraft and spacecraft. Now, I work at the intersection of simulation, machine learning, and cloud-native technology ☁️
+I am Marcus Isnard. I enjoy building mission-critical systems with an emphasis on simplicity and robustness. I am driven to solve problems using first principles. I have eight plus years of experience working in deep tech and a strong academic background in engineering. Previously, I wrote software for airplanes and spacecraft. Now, I work at the intersection of simulation and machine learning ☁️
 
 # Interests 🚀
 - Distributed Systems
-- HPC
+- Real-Time & Embedded Systems
+- Parallel Computing
 - Cloud Native
-- DevOps & Platform Engineering
-- Real-Time Systems & Avionics
+- AI & System Safety
