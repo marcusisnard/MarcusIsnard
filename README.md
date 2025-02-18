@@ -8,4 +8,3 @@ I am Marcus Isnard. I enjoy building mission-critical systems with an emphasis o
 - Systems Engineering
 - Cloud-Native
 - All the Ops (Dev, Data, ML)
-- 
