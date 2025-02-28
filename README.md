@@ -1,10 +1,12 @@
 # Hello  🤝
-I am Marcus Isnard. I enjoy building mission-critical systems with an emphasis on simplicity and robustness. I am driven to solve problems using first principles. I have eight plus years of experience working in deep tech and a strong academic background in engineering. Previously, I wrote software for airplanes and spacecraft. Now, I work at the intersection of simulation and machine learning ☁️
+I am Marcus Isnard. I enjoy building systems from the ground up—think infrastructure, APIs, and everything that ties them together in a robust, secure, and scalable way. I have worked in several mission-critical contexts, such as flight software and digital engineering. ☁️
 
 # Interests 🚀
-- Distributed Systems
-- Parallel Computing
 - Real-Time & Embedded Systems
+- Safety Critical Systems
 - Systems Engineering
-- Cloud-Native
+- Distributed Systems
+- High-Performance Computing
+- Cloud-Native Architecture
+- Building CLIs
 - All the Ops (Dev, Data, ML)
