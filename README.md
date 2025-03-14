@@ -8,5 +8,6 @@ I am Marcus Isnard. I work on building systems from the ground up — think infr
 - Distributed Systems
 - High-Performance Computing
 - Cloud-Native Architecture
-- Building CLIs
 - All the Ops (Dev, Data, ML)
+- Platform Engineering
+- SRE
