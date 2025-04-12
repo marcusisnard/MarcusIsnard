@@ -5,6 +5,7 @@ I am Marcus Isnard. I work on building systems from the ground up — think infr
 - Real-Time & Embedded Systems
 - Distributed Systems
 - Cloud-Native Infrastructure
+- AI/ML
 - Dev/ML Ops
 - SRE
 - Security Engineering
