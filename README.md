@@ -3,11 +3,9 @@ I am Marcus Isnard. I work on building systems from the ground up — think infr
 
 # Interests 🚀
 - Real-Time & Embedded Systems
-- Systems Engineering
 - Distributed Systems
-- High-Performance Computing
-- Cloud-Native Architecture
-- All the Ops (Dev, Data, ML)
-- Platform Engineering
+- Cloud-Native Infrastructure
+- Dev/ML Ops
 - SRE
 - Security Engineering
+- C, C++, Rust, Go, Python
