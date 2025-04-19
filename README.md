@@ -8,4 +8,5 @@ I am Marcus Isnard. I work on building systems from the ground up — think infr
 - DevOps & MLOps
 - Security Engineering
 - SRE
+- Embedded Systems, Real Time Systems, FPGA
 - C, C++, Rust, Go, Python
