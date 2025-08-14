@@ -4,5 +4,5 @@ I enjoy building systems for highly reliable computing domains, such as avionics
 # Interests 🚀
 - AI/ML
 - Distributed Systems
-- Embedded Systems, Real Time Systems, FPGA
+- Embedded Systems, Real Time Systems, FPGAs
 - C, C++, Rust, Go, Python
